@@ -8,5 +8,5 @@ NOTA: El código utilizado se añadirá próximamente.
 **Agradecimientos**
 Este trabajo se enmarca dentro del proyecto TED2021-130901B-I00, financiado por MICIU/AEI/10.13039/501100011033 y por la Unión Europea NextGenerationEU/PRTR. También forma parte del proyecto PID2023-149575OB-I00, financiado por MICIU/AEI/10.13039/501100011033 y por FEDER, UE.
 <div align="center">
-  <img src="figs/logos_cycit_prometeo.png"/ width="97%"> <br>
+  <img src="figs/logo_cycit.png"/ width="97%"> <br>
 </div>
